@@ -4,7 +4,7 @@ A crop recommendation system built using Python, machine learning, and Gradio fo
 
 ---
 
-## 👥 Team ID:2nd_TEAM_15
+## 👥 TEAM NAME -: TEAM(SC1)_4
 TEAM MEMBERS:  
             1.Sohan Patra (24CSE067),(24UG010134), Email-24cse067.sohanpatra@giet.edu<br>
             2.Sthiti Prakalpita Rath (24CSE080),(24UG010147), Email-24cse080.sthitiprakalpitarath@giet.edu<br>
