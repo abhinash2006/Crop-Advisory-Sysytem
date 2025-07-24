@@ -14,7 +14,7 @@ TEAM MEMBERS:
 
 
 ## 📹 Demo Video
-[Watch the demo video](https://drive.google.com/file/d/1_cOaetih-uOaiUnxFKsnAhBMjvDjGh_P/view?usp=sharing)) 
+[Watch the demo video](https://docs.google.com/presentation/d/153Kz-LG2rRI-XFOiL1ByG1guSVDo68Il/edit?usp=drive_link&ouid=109400812642917980903&rtpof=true&sd=true) 
 
 
 
