@@ -16,6 +16,12 @@ TEAM MEMBERS:
 
 ## 📹 Demo Video
 [Watch the demo video](https://drive.google.com/file/d/1_cOaetih-uOaiUnxFKsnAhBMjvDjGh_P/view?usp=sharing)) 
+
+
+
+
+SAMPLE PHOTOS OF PROJECT:(https://drive.google.com/file/d/1CA4XdnyKSfLDzebqRvboNyudHUiVCgAu/view?usp=sharing)
+
 ---
 
 ## 🧠 Features
@@ -46,3 +52,8 @@ TEAM MEMBERS:
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
+
+
+
+
